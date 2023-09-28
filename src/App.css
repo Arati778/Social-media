@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 2px;
+}
+
+body{
+  display: grid;
+  place-items: center;
+  background-color: aqua;
+}
+
